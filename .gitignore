@@ -45,6 +45,7 @@ Thumbs.db
 
 # AI agent instructions — don't expose
 /.agents/
+/AGENTS.md
 
 # Python
 __pycache__/
