@@ -43,6 +43,9 @@ Thumbs.db
 *.sqlite
 *.sqlite-journal
 
+# AI agent instructions — don't expose
+/.agents/
+
 # Python
 __pycache__/
 *.pyc
